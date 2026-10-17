@@ -1,7 +1,7 @@
 {
  "ad": {
-  "file": "text/ad/4.2.4/4.2.4_4_ad.txt",
-  "hash": "6161df59f560775f6bb084ba98fb16b7",
+  "file": "text/ad/4.2.4/4.2.4_5_ad.txt",
+  "hash": "6c1eb545c9ee1b54a99f1d38b4122b2b",
   "history": [
    {
     "hash": "06e6e9f322b3fb8a26606929f2f6857c",
@@ -26,15 +26,21 @@
     "revision": 4,
     "updated": "2026-10-14T09:47:40Z",
     "version": "4.2.4"
+   },
+   {
+    "hash": "6c1eb545c9ee1b54a99f1d38b4122b2b",
+    "revision": 5,
+    "updated": "2026-10-17T11:18:39Z",
+    "version": "4.2.4"
    }
   ],
-  "revision": 4,
-  "updated": "2026-10-14T09:47:40Z",
+  "revision": 5,
+  "updated": "2026-10-17T11:18:39Z",
   "version": "4.2.4"
  },
  "ios": {
-  "file": "text/ios/4.2.6/4.2.6_4_ios.txt",
-  "hash": "6161df59f560775f6bb084ba98fb16b7",
+  "file": "text/ios/4.2.6/4.2.6_5_ios.txt",
+  "hash": "6c1eb545c9ee1b54a99f1d38b4122b2b",
   "history": [
    {
     "hash": "06e6e9f322b3fb8a26606929f2f6857c",
@@ -59,10 +65,16 @@
     "revision": 4,
     "updated": "2026-10-14T09:47:45Z",
     "version": "4.2.6"
+   },
+   {
+    "hash": "6c1eb545c9ee1b54a99f1d38b4122b2b",
+    "revision": 5,
+    "updated": "2026-10-17T11:18:44Z",
+    "version": "4.2.6"
    }
   ],
-  "revision": 4,
-  "updated": "2026-10-14T09:47:45Z",
+  "revision": 5,
+  "updated": "2026-10-17T11:18:44Z",
   "version": "4.2.6"
  }
 }
